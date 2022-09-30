@@ -5,7 +5,7 @@ Site para conscientização política voltado ao público jovem
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
 | :sparkles: Nome        | **Líti Pop**
-| :label: Métodos | Design Thinking (métodos utilizados)
+| :label: Métodos | Design Thinking (metodologia utilizada)
 | :rocket: URL         | https://www.behance.net/gallery/151472331/UXUI-Case-Study-Liti-Pop
 
 
