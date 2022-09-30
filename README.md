@@ -1,16 +1,16 @@
-# Nome do meu projeto
+# Líti Pop
 
-Rápida descrição do objetivo de fazer esse projeto
+Site para conscientização política voltado ao público jovem
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Líti Pop**
+| :label: Métodos | Design Thinking (métodos utilizados)
+| :rocket: URL         | https://www.behance.net/gallery/151472331/UXUI-Case-Study-Liti-Pop
+
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://imgur.com/O5HhYW7)
 
 ## Detalhes do projeto
 
