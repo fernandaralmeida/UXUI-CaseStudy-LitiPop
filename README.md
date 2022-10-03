@@ -10,7 +10,7 @@ Site para conscientização política voltado ao público jovem
 
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![LítiPop_ novo_Capa](https://user-images.githubusercontent.com/114711104/193299657-209e14ad-5aae-44a7-90e9-eb65b7fb2513.png)
+![LítiPop_ novo_Capa](https://user-images.githubusercontent.com/114711104/193299657-209e14ad-5aae-44a7-90e9-eb65b7fb2513.png)#vitrinedev
 
 
 
